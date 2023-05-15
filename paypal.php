@@ -14,7 +14,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js"></script>
     
     <!-- Paypal-->
-    <script src="https://www.paypal.com/sdk/js?client-id=AZmWxPNw3GuDRUrhjZWDX9sQyGywq_UvfzTbBKLubKJfryOajnC7AZDwCmUvA3kV-j9ke5hjW-M8qh7s&currency=USD"></script>
+    <script src="https://www.paypal.com/sdk/js?client-id=test&currency=USD"></script>
 </head>
 <body style="background-color: #3972CF;">
 
